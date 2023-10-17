@@ -30,7 +30,7 @@ If you want to reproduce or build upon this classification project, you can foll
 
 1. Clone this repository to your local machine.
 2. Download the dataset from the Kaggle link provided above and place it in the irectory.
-3. Review the Jupyter Notebook ([Analysis.ipynb](/source_code_customers_prediction.ipynb)) for the complete code and detailed analysis.
+3. Review the ([Jupyter Notebook](/source_code_customers_prediction.ipynb)) for the complete code and detailed analysis.
 4. Explore the [Results](/presentation.pdf) directory for model evaluation and key findings.
 
 ## Acknowledgments
