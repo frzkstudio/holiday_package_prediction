@@ -8,7 +8,7 @@ This repository contains a machine learning classification project for predictin
 
 The dataset used in this project is sourced from Kaggle and is titled "Holiday Package Prediction." It contains information about customers, their demographics, travel history, and whether they booked a holiday package or not.
 
-You can find the dataset [here](https://www.kaggle.com/datasets/susant4learning/holiday-package-purchase-prediction/data) (replace with the actual dataset link).
+You can find the dataset [here](https://www.kaggle.com/datasets/susant4learning/holiday-package-purchase-prediction/data).
 
 ## Methodology
 
